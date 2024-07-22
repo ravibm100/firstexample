@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "oracleprops",
+      "type": "com.bvr.ExampleProperties",
+      "sourceType": "com.bvr.ExampleProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "oracleprops.greeting",
+      "type": "java.lang.String",
+      "sourceType": "com.bvr.ExampleProperties",
+      "defaultValue": "Thank you"
+    }
+  ],
+  "hints": []
+}
